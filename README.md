@@ -77,7 +77,10 @@ sequenceDiagram
 
 
 ---<img width="1920" height="1080" alt="Screenshot (1154)" src="https://github.com/user-attachments/assets/8aae21e7-80a6-4eda-8ae9-2ea5e4e23906" />
+<img width="1920" height="1080" alt="Screenshot (1155)" src="https://github.com/user-attachments/assets/5dbe02f0-f10d-495d-bd6a-1dfaefd136a0" />
+<img width="1920" height="1080" alt="Screenshot (1156)" src="https://github.com/user-attachments/assets/689954fc-19c5-4655-9eb5-5cb147d67711" />
 
+<img width="1920" height="1080" alt="Screenshot (1157)" src="https://github.com/user-attachments/assets/863d3458-5c47-42e9-9377-11b923535d89" />
 
 ## 🛠️ Tech Stack
 
