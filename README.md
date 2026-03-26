@@ -36,9 +36,6 @@ flowchart LR
 
 ---
 
-## 🎬 Demo Workflow
-
-![Demo](src/assets/images/demo.png)
 
 ---
 
@@ -77,15 +74,10 @@ sequenceDiagram
 
 ## 📸 Application Screenshots
 
-### 📊 Dashboard
 
-![Dashboard](src/assets/images/dashboard.png)
 
-### 📄 Invoice Processing
+---<img width="1920" height="1080" alt="Screenshot (1154)" src="https://github.com/user-attachments/assets/8aae21e7-80a6-4eda-8ae9-2ea5e4e23906" />
 
-![Workflow](src/assets/images/workflow.png)
-
----
 
 ## 🛠️ Tech Stack
 
