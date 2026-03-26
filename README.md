@@ -12,9 +12,6 @@ It transforms unstructured invoice data into **structured financial intelligence
 
 ---
 
-## 🖼️ System Architecture
-
-![Architecture](src/assets/images/architecture.png)
 
 ---
 
@@ -152,9 +149,5 @@ Built for enterprise automation, scalability, and real-world AI impact.
 
 ---
 
-## 👨‍💻 Author
-
-**Vinay Potnuri**
-🔗 [https://github.com/vinay-potnuri](https://github.com/vinay-potnuri)
 
 ---
