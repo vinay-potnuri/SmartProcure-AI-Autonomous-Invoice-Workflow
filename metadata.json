@@ -1,0 +1,5 @@
+{
+  "name": "SmartProcure: AI Autonomous Invoice Workflow",
+  "description": "An autonomous procurement system with self-correcting AI agents, RAG-based policy enforcement, and a visual audit trail for enterprise compliance.",
+  "requestFramePermissions": []
+}
