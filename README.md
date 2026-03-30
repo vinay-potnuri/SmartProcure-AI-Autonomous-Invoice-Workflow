@@ -143,11 +143,4 @@ MIT License
 
 ---
 
-## 🏆 Hackathon Ready
 
-Built for enterprise automation, scalability, and real-world AI impact.
-
----
-
-
----
